@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "лабошка2", "лабошка2\лабошка2.vcxproj", "{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Debug|x64.ActiveCfg = Debug|x64
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Debug|x64.Build.0 = Debug|x64
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Debug|x86.ActiveCfg = Debug|Win32
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Debug|x86.Build.0 = Debug|Win32
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Release|x64.ActiveCfg = Release|x64
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Release|x64.Build.0 = Release|x64
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Release|x86.ActiveCfg = Release|Win32
+		{94A85F89-9CD9-44BA-AF1F-8FB9632A1D53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3513C6DD-FDF5-4C0D-BCCA-7E6CB4030E81}
+	EndGlobalSection
+EndGlobal
